@@ -1,0 +1,223 @@
+{
+  "array_express_investigation": "E-MTAB-6678",
+  "contributors": [
+    {
+      "address": "Wellcome Trust Genome Campus, Cambridge",
+      "contact_name": "Johan,,Henriksson",
+      "corresponding_contributor": false,
+      "country": "UK",
+      "email": "mahogny@areta.org",
+      "institution": "Wellcome Trust Sanger Institute"
+    },
+    {
+      "address": "Wellcome Trust Genome Campus, Cambridge",
+      "contact_name": "Mirjana,,Efremova",
+      "corresponding_contributor": true,
+      "country": "UK",
+      "email": "me5@sanger.ac.uk",
+      "institution": "Wellcome Trust Sanger Institute"
+    },
+    {
+      "address": "Wellcome Trust Genome Campus, Cambridge",
+      "contact_name": "Roser,,Vento-Tormo",
+      "corresponding_contributor": true,
+      "country": "UK",
+      "email": "rv4@sanger.ac.uk",
+      "institution": "Wellcome Trust Sanger Institute"
+    },
+    {
+      "address": "Newcastle upon Tyne, NE2 4HH",
+      "contact_name": "Muzlifah,,Haniffa",
+      "corresponding_contributor": true,
+      "country": "UK",
+      "email": "m.a.haniffa@ncl.ac.uk",
+      "institution": "Newcastle University",
+      "laboratory": "Institute of Cellular Medicine"
+    },
+    {
+      "address": "Cambridge, CB2 3EG",
+      "contact_name": "Ashley,,Moffett",
+      "corresponding_contributor": true,
+      "country": "UK",
+      "email": "am485@cam.ac.uk",
+      "institution": "University of Cambridge",
+      "laboratory": "Centre for Trophoblast Research"
+    },
+    {
+      "address": "Wellcome Trust Genome Campus, Cambridge",
+      "contact_name": "Sarah,A,Teichmann",
+      "corresponding_contributor": true,
+      "country": "UK",
+      "email": "st9@sanger.ac.uk",
+      "institution": "Wellcome Trust Sanger Institute"
+    },
+    {
+      "address": "Wellcome Trust Genome Campus, Cambridge",
+      "contact_name": "Mallory,Ann,Freeberg",
+      "corresponding_contributor": false,
+      "country": "UK",
+      "email": "mfreeberg@ebi.ac.uk",
+      "institution": "EMBL-EBI",
+      "laboratory": "Human Cell Atlas Data Coordination Platform",
+      "orcid_id": "0000-0003-2949-3921",
+      "project_role": "Human Cell Atlas wrangler"
+    },
+    {
+      "address": "Wellcome Trust Genome Campus, Cambridge",
+      "contact_name": "Zinaida, A, Perova",
+      "corresponding_contributor": false,
+      "country": "UK",
+      "email": "zina@ebi.ac.uk",
+      "institution": "EMBL-EBI",
+      "laboratory": "Human Cell Atlas Data Coordination Platform",
+      "orcid_id": "0000-0001-9913-3249",
+      "project_role": "Human Cell Atlas wrangler"
+    },
+    {
+      "address": "Wellcome Trust Genome Campus, Cambridge UK",
+      "contact_name": "Anja,,Fullgrabe",
+      "corresponding_contributor": false,
+      "country": "UK",
+      "email": "anjaf@ebi.ac.uk",
+      "institution": "EMBL-EBI",
+      "laboratory": "ArrayExpress ",
+      "orcid_id": "0000-0002-8674-0039",
+      "project_role": "external curator"
+    }
+  ],
+  "describedBy": "https://schema.humancellatlas.org/type/project/9.0.8/project",
+  "funders": [
+    {
+      "funder_name": "Swedish Research Council"
+    },
+    {
+      "funder_name": "Medical Research Council / Wellcome Trust",
+      "grant_id": "099175/Z/12/Z"
+    },
+    {
+      "funder_name": "Wellcome Trust",
+      "grant_id": "WT107931/Z/15/Z"
+    },
+    {
+      "funder_name": "EMBO Long-Term Fellowship"
+    },
+    {
+      "funder_name": "Human Frontier Science Program Long-Term Fellowship"
+    },
+    {
+      "funder_name": "Royal Society Dorothy Hodgkin Fellowship"
+    },
+    {
+      "funder_name": "The Lister Institute for Preventive Medicine"
+    },
+    {
+      "funder_name": "National Institute for Health Research"
+    },
+    {
+      "funder_name": "Newcastle Biomedical Research Centre"
+    },
+    {
+      "funder_name": "ERC",
+      "grant_id": "ThDEFINE, ThSWITCH"
+    },
+    {
+      "funder_name": "EU FET-OPEN",
+      "grant_id": "MRG-GRAMMAR no. 664918"
+    },
+    {
+      "funder_name": "Wellcome Trust",
+      "grant_id": "Investigator award"
+    },
+    {
+      "funder_name": "Wellcome Sanger core funding",
+      "grant_id": "WT206194"
+    }
+  ],
+  "insdc_project": "ERP107748",
+  "insdc_study": "PRJEB25794",
+  "project_core": {
+    "project_description": "During early human pregnancy the uterine mucosa transforms into the decidua, into which the fetal placenta implants and where placental trophoblast cells intermingle and communicate with maternal cells. Trophoblast–decidual interactions underlie common diseases of pregnancy, including pre-eclampsia and stillbirth. Here we profile the transcriptomes of about 70,000 single cells from first-trimester placentas with matched maternal blood and decidual cells. The cellular composition of human decidua reveals subsets of perivascular and stromal cells that are located in distinct decidual layers. There are three major subsets of decidual natural killer cells that have distinctive immunomodulatory and chemokine profiles. We develop a repository of ligand–receptor complexes and a statistical tool to predict the cell-type specificity of cell–cell communication via these molecular interactions. Our data identify many regulatory interactions that prevent harmful innate or adaptive immune responses in this environment. Our single-cell atlas of the maternal–fetal interface reveals the cellular organization of the decidua and placenta, and the interactions that are critical for placentation and reproductive success.",
+    "project_short_name": "Fetal/Maternal Interface",
+    "project_title": "Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics"
+  },
+  "provenance": {
+    "document_id": "aabbec1a-1215-43e1-8e42-6489af25c12c",
+    "submission_date": "2019-01-23T10:25:31.744Z",
+    "update_date": "2019-01-23T10:40:40.301Z"
+  },
+  "publications": [
+    {
+      "authors": [
+        "Vento-Tormo R",
+        "Efremova M",
+        "Botting RA",
+        "Turco MY",
+        "Vento-Tormo M",
+        "Meyer KB",
+        "Park J",
+        "Stephenson E",
+        "Polanski K",
+        "Payne RP",
+        "Goncalves A",
+        "Zou A",
+        "Henriksson J",
+        "Wood L",
+        "Lisgo S",
+        "Filby A",
+        "Wright GJ",
+        "Stubbington MJ",
+        "Haniffa M",
+        "Moffett A",
+        "Teichmann SA"
+      ],
+      "doi": "10.1101/429589",
+      "publication_title": "Reconstructing the human first trimester fetal-maternal interface using single cell transcriptomics",
+      "publication_url": "https://www.biorxiv.org/content/early/2018/09/29/429589"
+    },
+    {
+      "authors": [
+        "Vento-Tormo R",
+        "Efremova M",
+        "Botting RA",
+        "Turco MY",
+        "Vento-Tormo M",
+        "Meyer KB",
+        "Park J",
+        "Stephenson E",
+        "Polanski K",
+        "Goncalves A",
+        "Gardner L",
+        "Holmqvist S",
+        "Henriksson J",
+        "Zou A",
+        "Sharkey A",
+        "Millar B",
+        "Innes B",
+        "Wood L",
+        "Wilbrey-Clark A",
+        "Payne RP",
+        "Ivarsson M",
+        "Lisgo S",
+        "Filby A",
+        "Rowitch D",
+        "Bulmer J",
+        "Wright GJ",
+        "Stubbington MJ",
+        "Haniffa M",
+        "Moffett A",
+        "Teichmann SA"
+      ],
+      "doi": "10.1038/s41586-018-0698-6",
+      "pmid": 30429548,
+      "publication_title": "Single-cell reconstruction of the early maternal–fetal interface in humans",
+      "publication_url": "https://www.nature.com/articles/s41586-018-0698-6#Sec35"
+    }
+  ],
+  "schema_type": "project",
+  "supplementary_links": [
+    "https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6678/",
+    "https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6701/",
+    "https://www.ebi.ac.uk/ena/data/view/PRJEB25794",
+    "https://www.ebi.ac.uk/ena/data/view/PRJEB28266"
+  ]
+}
