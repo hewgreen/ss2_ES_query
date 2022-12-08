@@ -8,7 +8,7 @@ bleach==3.1.0
 boto3==1.7.84
 botocore==1.10.84
 cachetools==3.1.0
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 CommonMark==0.7.5
